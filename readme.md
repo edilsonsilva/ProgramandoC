@@ -1,9 +1,9 @@
 # Estudo da linguagem C
 ## Neste repositório será e publicado arquivos escritos em  C
 
-<p style="text-align:center">
+<div style="text-align:center">
 <img src="https://giovanidacruz.com.br/wp-content/uploads/2022/11/C-programming-1024x530-1.jpg" height="150" width="300">
-</p>
+</div>
 
 ### Abaixo é apresentado os arquivos deste repositório
 
